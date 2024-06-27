@@ -13,7 +13,7 @@ This is a lightweight web directory application designed for simplicity and ease
 
 This project demonstrates the core functionality of a web directory application while prioritizing efficiency and maintainability.
 
-**How to set
+# How to set
 Set your database in the db.php file.
 
 In the index file, you have to set the pages you wanna show in the number of lists on a single page. And then the database table and columns.
